@@ -1,0 +1,18 @@
+
+Exception (29):
+epc1=0x4000e1b2 epc2=0x00000000 epc3=0x00000000 excvaddr=0x00000004 depc=0x00000000
+
+ctx: cont
+sp: 3fff29b0 end: 3fff2fb0 offset: 01a0
+
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x4010f000, len 1384, room 16
+tail 8
+chksum 0x2d
+csum 0x2d
+v09f0c112
+~ld
+
+Chat ID:-202456688
